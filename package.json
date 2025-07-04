@@ -1,0 +1,21 @@
+{
+  "name": "bitelectronics",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "vue": "^3.5.17",
+    "vuetify": "^3.8.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "vite": "^7.0.0",
+    "vite-plugin-vue-devtools": "^7.7.7"
+  }
+}
